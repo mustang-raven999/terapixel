@@ -1,0 +1,47 @@
+commit d5fa3c39d3f45481dcea21bca0d9da3ddb012ff8
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Fri Jan 27 16:09:54 2023 +0000
+
+    Concluded
+
+commit 70585d57ca5e73bc505b443fa28412fe0a0faac9
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Fri Jan 27 14:20:34 2023 +0000
+
+    GPU Performance
+
+commit 2bb9cb17c3cc7c32e4250f8ba7e5fc869b999874
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Fri Jan 27 13:38:45 2023 +0000
+
+    Updated file
+
+commit 9f074b394aa3f5f33422d47cd2bc0e70b5a28b51
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Fri Jan 27 12:49:47 2023 +0000
+
+    Effect on performance
+
+commit bc93414e464d26f537f55a4bcc5ea23cff78546c
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Fri Jan 27 10:06:46 2023 +0000
+
+    GPU Power drawn vs GPU Temperature
+
+commit f5d55c3d5621ada95769264d7749281035636831
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Fri Jan 27 07:12:58 2023 +0000
+
+    Adding ipynb file
+
+commit 3d9dd6c62f0869d6fa5c54a750d2706d0c6d23ed
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Wed Jan 25 00:34:26 2023 +0000
+
+    projecttemplate initialise
+
+commit a475d0e19c82f66991404810af74df5bd13cb46f
+Author: mustang-raven999 <rohitkrk999@gmail.com>
+Date:   Tue Jan 24 02:38:36 2023 +0000
+
+    setup
